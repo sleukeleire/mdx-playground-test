@@ -1,0 +1,7 @@
+node_modules
+dist/bundle.js
+dist/*.jpg
+dist/*.png
+dist/*.jpeg
+dist/*.gif
+dist/*.svg
